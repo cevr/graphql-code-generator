@@ -1,5 +1,11 @@
 # @graphql-codegen/typescript
 
+## 1.17.11
+
+### Patch Changes
+
+- 077cf064: Fixed reading of enumValues config values
+
 ## 1.17.10
 
 ### Patch Changes

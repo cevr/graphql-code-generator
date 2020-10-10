@@ -1,5 +1,11 @@
 # @graphql-codegen/typescript-graphql-request
 
+## 2.0.2
+
+### Patch Changes
+
+- 73442b73: fix grapqhl-request import types
+
 ## 2.0.1
 
 ### Patch Changes

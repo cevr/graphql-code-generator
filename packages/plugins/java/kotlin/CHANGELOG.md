@@ -1,6 +1,13 @@
 # @graphql-codegen/kotlin
 
+## 1.17.9
+
+### Patch Changes
+
+- 0512ddbd: Revert previous changes to fix syntax errors
+
 ## 1.17.8
+
 ### Patch Changes
 
 - 1d7c6432: Bump all packages to allow "^" in deps and fix compatibility issues

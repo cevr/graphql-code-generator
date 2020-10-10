@@ -1,6 +1,16 @@
 # @graphql-codegen/typescript-type-graphql
 
+## 1.17.9
+
+### Patch Changes
+
+- b412d850: Added missing Entry<> type
+- a5d11eb5: GraphQL descriptions are now set in their corresponding TypeGraphQL decorator options
+- Updated dependencies [077cf064]
+  - @graphql-codegen/typescript@1.17.11
+
 ## 1.17.8
+
 ### Patch Changes
 
 - 1d7c6432: Bump all packages to allow "^" in deps and fix compatibility issues
